@@ -15,6 +15,8 @@ class _FiltersScreenState extends State<FiltersScreen> {
   var _lactoseFree = false;
   var _vegetarian = false;
   var _vegan = false;
+
+  @override
   initState() {
     _glutenFree = widget.filters['gluten'] as bool;
     _lactoseFree = widget.filters['lactose'] as bool;
