@@ -1,16 +1,14 @@
-# meals_flutter
+# Meals App
+Meals App Using Flutter & Dart 
 
-A new Flutter project.
+## Overview
+This is a Meals app that will help you to choose a recipe for you upcoming meal and prepare it with easy straight forward steps.
+This Application is implemented using Flutter & Dart.
 
-## Getting Started
+## Features
+* Display useful information for every meal (preparation time, complexity, cost, ingredients, steps)
+* Filter meals depending on thier type (Gluten-Free, Lactose-Free, Vegetarian, Vegan)
+* Add meals to you favorites list
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Meals Demo](https://user-images.githubusercontent.com/47731377/139928768-c027ffd6-a130-4efa-8d89-fbba348d45b9.gif)
