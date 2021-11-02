@@ -11,4 +11,4 @@ This Application is implemented using Flutter & Dart.
 * Add meals to you favorites list
 
 
-![Meals Demo](https://user-images.githubusercontent.com/47731377/139928768-c027ffd6-a130-4efa-8d89-fbba348d45b9.gif)
+![Meals Demo](https://user-images.githubusercontent.com/47731377/139929371-ee77a7a4-a158-4318-ae68-41de4d6cd5ac.gif)
